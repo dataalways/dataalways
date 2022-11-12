@@ -1,4 +1,4 @@
-- I’m dataalways 👋 and I run an Ethereum focused [Substack](dataalways.substack.com).
+- I’m dataalways 👋 and I run an Ethereum focused [Substack](https://dataalways.substack.com).
 - I spend my time doing data analysis and theorycrafting in the cryptocurrency space.
 - My niche is taking other people's theories and then looking at the data to see if it supports or disagrees with the claim, ie: 
   -  Is the Ethereum [withdrawal unlock](https://dataalways.substack.com/p/ethereum-validator-withdrawals) going to be a cataclysmic event? 
