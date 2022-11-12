@@ -1,0 +1,10 @@
+- I’m dataalways 👋 
+- I focus on data analysis and theorycrafting in the cryptocurrency space
+- The niche I try to focus on is taking other people's theories and then looking at the data to see if it supports or disagrees with the claim, ie: 
+  -  Is the Ethereum withdrawal unlock going to be a cataclysmic event? 
+  -  How does Bitcoin correlate with broad market volatility during panics? 
+  -  How valid are the assumptions in the Cambridge Bitcoin Electricity Consumption Index? 
+  -  At what number of validators does Ethereum staking start to become less capitally efficient? 
+  -  What would token flows look like if The Ethereum Triple Halvening model plays out?
+- Right now I'm working on open-sourcing a lot of the scripts and notebooks that I've built, but it has been a surprisingly long process.
+- Feel free to keep up with me is on [Substack](dataalways.substack.com), but I'm also on [Twitter](twitter.com/data_always) a bunch, and sometimes I post on [Mirror](dataalways.mirror.xyz). I also run a community on [GM](gm.xyz/c/dataalways)
