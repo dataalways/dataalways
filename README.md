@@ -1,4 +1,4 @@
-- I’m dataalways 👋 and I run a crypto focused [newsletter](https://dataalways.substack.com).
+- I’m Tripoli 👋 and I run a crypto focused newsletter called [Data Always](https://dataalways.substack.com).
 - I spend my time doing data analysis and theorycrafting in the cryptocurrency space.
 - My niche is taking other people's theories and then looking at the data to see if it supports or disagrees with the claim, ie: 
   -  How [valid are the assumptions](https://github.com/dataalways/energy-adjusted-cbeci) in the [Cambridge Bitcoin Electricity Consumption Index](https://ccaf.io/cbeci/index)? 
