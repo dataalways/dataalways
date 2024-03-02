@@ -1,7 +1,2 @@
 - I’m Tripoli 👋 and I run a crypto focused newsletter called [Data Always](https://dataalways.substack.com).
 - I spend my time doing data analysis and theorycrafting in the cryptocurrency space.
-- My niche is taking other people's theories and then looking at the data to see if it supports or disagrees with the claim, ie: 
-  -  How [valid are the assumptions](https://github.com/dataalways/energy-adjusted-cbeci) in the [Cambridge Bitcoin Electricity Consumption Index](https://ccaf.io/cbeci/index)? 
-  -  Is the Ethereum [withdrawal unlock](https://dataalways.substack.com/p/ethereum-validator-withdrawals) going to be a cataclysmic event? 
-  -  At what number of validators does Ethereum staking start to become [less capitally efficient](https://dataalways.substack.com/p/staking-yield-and-ratios)? 
-- Right now I'm working on open-sourcing a lot of the scripts and notebooks that I've built, but it has been a longer process than I anticipated.
