@@ -2,9 +2,6 @@ I’m Tripoli 👋 and I spend my time doing data analysis and theorycrafting in
 
 ### Writings 
 
-
-https://x.com/Data_Always/status/1887574765038411791
-
 <ul>
   
   <li>
