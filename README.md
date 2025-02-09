@@ -85,7 +85,7 @@ I’m Tripoli 👋 and I spend my time doing data analysis and theorycrafting in
         <li><a href="https://dataalways.substack.com/p/cryptocurrency-portfolio-optimization">Cryptocurrency Portfolio Optimization</a></li>
         <li><a href="https://dataalways.substack.com/p/trading-bitcoin-exchange-flows-during">Trading bitcoin exchange flows during a bull run</a></li>
         <li><a href="https://dataalways.substack.com/p/the-bitcoin-fear-and-greed-index">The Bitcoin Fear & Greed Index</a></li>
-        <a href="https://dataalways.substack.com/p/below-the-surface-of-eip-1559">Below the surface of EIP-1559</a></li>
+        <li><a href="https://dataalways.substack.com/p/below-the-surface-of-eip-1559">Below the surface of EIP-1559</a></li>
 <li><a href="https://dataalways.substack.com/p/exchange-balances-flows">Exchange Balances / Flows</a></li>
 <li><a href="https://dataalways.substack.com/p/ethereum-on-chain-state-of-the-mining">State of the (Ethereum mining) union</a></li>
 <li><a href="https://dataalways.substack.com/p/ethereum-on-chain-eip-1559">EIP-1559</a></li>
