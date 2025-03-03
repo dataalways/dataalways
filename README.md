@@ -8,6 +8,7 @@ I’m Tripoli 👋 and I spend my time doing data analysis and theorycrafting in
     <details>
       <summary>2025</summary>
       <ul>
+        <li><a href="https://collective.flashbots.net/t/the-block-auction-arms-race/4734">The Block Auction Arms Race</a></li>
         <li><a href="https://x.com/Data_Always/status/1887574765038411791">Local block building and gas limit increases</a></li>
       </ul>
     </details>
