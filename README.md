@@ -24,6 +24,4 @@ Using implied option volatilities to forecast base asset volatility ahead of The
 \
 A full list of my works is [available here](https://github.com/dataalways/writing)
 
----
-
 Socials: [Twitter](https://twitter.com/data_always) | [Dune Analytics](https://dune.com/dataalways)
