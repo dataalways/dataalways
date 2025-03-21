@@ -7,7 +7,7 @@ protocol research at Flashbots ⚡️🤖
 MEV block auctions have shifted dramatically over the past two years with latency becoming an increasingly important factor in determining who wins. How can we characterize this evolution and what can we footprint from public auction data?
 
 <b><a href="https://collective.flashbots.net/t/the-role-of-relays-in-reorgs/4247/1">The Role of Relays in Reorgs</a></b>\
-Analyzing the reorg and reorging rates of different relays and how MEV auction structure changes during this blocks.
+Analyzing the reorg and reorging rates of different relays and how MEV auction structure changes during these blocks.
 
 <b><a href="https://ethresear.ch/t/understanding-minimum-blob-base-fees/20489">Understanding Minimum Blob Base Fees: Analysis of EIP-7762</a></b>\
 Blob market analysis during demand spikes and the potential impact of EIP-7762
