@@ -4,7 +4,7 @@ protocol research at Flashbots ⚡️🤖
 
 ### Selected Writing
 <b><a href="https://collective.flashbots.net/t/the-block-auction-infrastructure-race/4734">The Block Auction Infrastructure Race</a></b>\
-MEV block auctions have shifted dramatically over the past two years with latency becoming an increasingly important factor in determining who wins. How can we characterize this evolution and what can we footprint from public auction data?
+Empirical analysis on the increasing importance of latency in block building for mevboost auctions.
 
 <b><a href="https://collective.flashbots.net/t/the-role-of-relays-in-reorgs/4247/1">The Role of Relays in Reorgs</a></b>\
 Analyzing the reorg and reorging rates of different relays and how MEV auction structure changes during these blocks.
