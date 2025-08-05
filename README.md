@@ -3,6 +3,9 @@ protocol research at Flashbots ⚡️🤖
 ---
 
 ### Selected Writing
+<b><a href="https://collective.flashbots.net/t/an-mev-perspective-on-glamsterdam/5116">An MEV Perspective of Glamsterdam</a></b>\
+An MEV-informed perspective on the headlining proposals for Glamsterdam, highlighting tradeoffs that are missing from the broader conversation, particularly as they relate to block building, auction design, censorship resistance, and geodecentralization.
+
 <b><a href="https://collective.flashbots.net/t/the-block-auction-infrastructure-race/4734">The Block Auction Infrastructure Race</a></b>\
 Empirical analysis on the increasing importance of latency in block building for mevboost auctions.
 
